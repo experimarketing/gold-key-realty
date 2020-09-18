@@ -408,13 +408,30 @@ nav .nav-item:last-child {
     justify-content: space-between
 }
 
-.profile-img {
-    background: url(img/prof.png) 50%/cover;
+.profile-img.les-rhodenizer {
+    background: url(img/les_rhodenizer.png) 50%/cover;
     width: 222px;
     height: 222px;
     border-radius: 50%;
     border: 2px solid #000
 }
+
+.profile-img.mark-corney {
+    background: url(img/ian_walker.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+
+.profile-img.ian-walker{
+    background: url(img/mark_corney.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+
 
 .profile h3 {
     padding-top: 20px;
