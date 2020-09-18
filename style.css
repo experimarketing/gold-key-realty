@@ -417,7 +417,7 @@ nav .nav-item:last-child {
 }
 
 .profile-img.mark-corney {
-    background: url(img/ian_walker.png) 50%/cover;
+    background: url(img/mark_corney.png) 50%/cover;
     width: 222px;
     height: 222px;
     border-radius: 50%;
@@ -425,7 +425,7 @@ nav .nav-item:last-child {
 }
 
 .profile-img.ian-walker{
-    background: url(img/mark_corney.png) 50%/cover;
+    background: url(img/ian_walker.png) 50%/cover;
     width: 222px;
     height: 222px;
     border-radius: 50%;
