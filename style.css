@@ -622,6 +622,22 @@ nav .nav-item:last-child {
     }
 }
 
+@media (max-width: 1520px) {
+    .about-wrapper {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .profile-wrap {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .info-wrapper {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+}
+
 @media (max-width: 1199.98px) {
     .container {
         max-width: 1140px
@@ -637,7 +653,7 @@ nav .nav-item:last-child {
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column;
-        text-align: center
+        text-align: center;
     }
 
     .about-text {
