@@ -432,6 +432,14 @@ nav .nav-item:last-child {
     border: 2px solid #000
 }
 
+.profile-img.tolga-toprak {
+    background: url(img/tolga_toprak.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+
 
 .profile h3 {
     padding-top: 20px;
