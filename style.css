@@ -782,6 +782,10 @@ nav .nav-item:last-child {
     .profile {
         padding: 30px 0
     }
+    .profile-wrap.second-profile-wrap {
+        margin-top: 0px;
+    }
+
 
 
 }
