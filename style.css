@@ -408,6 +408,10 @@ nav .nav-item:last-child {
     justify-content: space-between
 }
 
+.profile-wrap.second-profile-wrap {
+    margin-top: 50px;
+}
+
 .profile-img.les-rhodenizer {
     background: url(img/les_rhodenizer.png) 50%/cover;
     width: 222px;
@@ -443,7 +447,6 @@ nav .nav-item:last-child {
     background: url(img/aliceanne_doyle.png) 50%/cover;
     width: 222px;
     height: 222px;
-    margin-top: 50px;
     border-radius: 50%;
     border: 2px solid #000
         
@@ -452,7 +455,6 @@ nav .nav-item:last-child {
     background: url(img/jory_macisaac.png) 50%/cover;
     width: 222px;
     height: 222px;
-    margin-top: 50px;
     border-radius: 50%;
     border: 2px solid #000
 }
@@ -460,7 +462,6 @@ nav .nav-item:last-child {
     background: url(img/albert_huang.png) 50%/cover;
     width: 222px;
     height: 222px;
-    margin-top: 50px;
     border-radius: 50%;
     border: 2px solid #000
 }
@@ -468,7 +469,6 @@ nav .nav-item:last-child {
     background: url(img/michael_noonan.png) 50%/cover;
     width: 222px;
     height: 222px;
-    margin-top: 50px;
     border-radius: 50%;
     border: 2px solid #000
 }
