@@ -439,6 +439,37 @@ nav .nav-item:last-child {
     border-radius: 50%;
     border: 2px solid #000
 }
+.profile-img.aliceanne-doyle{
+    background: url(img/aliceanne_doyle.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+.profile-img.jory-macisaac{
+    background: url(img/jory_macisaac.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+.profile-img.albert-huang{
+    background: url(img/albert_huang.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+.profile-img.michael-noonan{
+    background: url(img/michael_noonan.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
+
+
+
 
 
 .profile h3 {
