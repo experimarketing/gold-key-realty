@@ -472,6 +472,13 @@ nav .nav-item:last-child {
     border-radius: 50%;
     border: 2px solid #000
 }
+.profile-img.michael-noonan{
+    background: url(img/dj.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
 
 
 
