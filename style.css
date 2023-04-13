@@ -486,7 +486,13 @@ nav .nav-item:last-child {
     border-radius: 50%;
     border: 2px solid #000
 }
-
+.profile-img.junkai-zhou{
+    background: url(img/junkai-zhou.png) 50%/cover;
+    width: 222px;
+    height: 222px;
+    border-radius: 50%;
+    border: 2px solid #000
+}
 
 
 
